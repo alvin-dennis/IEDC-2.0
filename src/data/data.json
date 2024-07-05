@@ -1,0 +1,167 @@
+{
+  "About": {
+    "paragraph": "The SJCET Startup Bootcamp- IEDC (Innovation and Entrepreneurship Development Centre) was set up on 9th March 2015 as a part of the Kerala Startup Mission (KSUM) initiative to develop a startup culture amongst students. The IEDCs are platforms set up in Engineering, Management, Arts & Science Colleges and Polytechnics with an aim to provide students an opportunity to experiment and innovate. KSUM has set up IEDCs in 226 institutions across the State which provide avenues for creative students to learn, collaborate and transform their innovative ideas into prototypes of viable products and services. IEDCs works as the first launch pad for a student’s entrepreneurial journey and provide them with access to cutting edge technology, world class infrastructure, high quality mentorship, early risk capital and global exposure.",
+    "Why": [
+      "To create an innovation culture among Innovators",
+      "To create a platform for students to experiment and innovate",
+      "Positioning the Institution as a Learning and Innovation Platform by delivering technically competent and skilled Entrepreneurs"
+    ],
+    "Why2": [
+      "To create IEDC as an Innovation Platform and to create future founders by promoting Innovation, Technology and Business Learning among student community",
+      "Introducing them the State-of-the-art technologies "
+    ]
+  },
+  "Team": [
+    {
+      "img": "img/team/SARJU-NODAL.webp",
+      "name": "Prof. Sarju S",
+      "job": "IEDC Nodal Officer"
+    },
+    {
+      "img": "img/team/DENIX-ASST-NODAL.webp",
+      "name": "Prof. Denix Sebastian",
+      "job": "Assistant Nodal Officer"
+    },
+    {
+      "img": "img/team/LIYA-CEO.webp",
+      "name": "Liya Elizabeth Joseph",
+      "job": "Chief Executive Officer"
+    },
+    {
+      "img": "img/team/GOUTHAM-CCO.webp",
+      "name": "Goutham Sreeram S B",
+      "job": "Chief Creative Officer"
+    },
+    {
+      "img": "img/team/ALVIN-CFO.webp",
+      "name": "Alvin Dennis",
+      "job": "Chief Financial Officer"
+    },
+    {
+      "img": "img/team/ALINA-COO.webp",
+      "name": "Alina Tresa Johnson",
+      "job": "Chief Operating Officer"
+    },
+    {
+      "img": "img/team/NOEL-CMO.webp",
+      "name": "Noel Roy",
+      "job": "Chief Marketing Officer"
+    },
+    {
+      "img": "img/team/RAJAT-CTO.webp",
+      "name": "Rajat Sandeep",
+      "job": "Chief Technical Officer"
+    },
+    {
+      "img": "img/team/JIBIN-CSO.webp",
+      "name": "Jibin Gigi",
+      "job": "Chief Skills Officer"
+    },
+    {
+      "img": "img/team/AIBEL-CVO.webp",
+      "name": "Aibel Bin Zachariah",
+      "job": "Chief Vibes Officer"
+    }
+  ],
+  "Subteam": [
+    {
+      "img": "img/team/ASHWIN-CO.webp",
+      "name": "Ashwin Sreenivasan",
+      "job": "Creative Officer"
+    },
+    {
+      "img": "img/team/CHRIS-CO.webp",
+      "name": "Chris Alex",
+      "job": "Creative Officer"
+    },
+    {
+      "img": "img/team/JOEL-CO.webp",
+      "name": "Joel Varghese",
+      "job": "Creative Officer"
+    },
+    {
+      "img": "img/team/POOJA-CO.webp",
+      "name": "Pooja Shibu",
+      "job": "Creative Officer"
+    },
+    {
+      "img": "img/team/EILIN-OO.webp",
+      "name": "Eilin Kennedy",
+      "job": "Operating Officer"
+    },
+    {
+      "img": "img/team/VASUDEV-OO.webp",
+      "name": "Vasudev Nair P",
+      "job": "Operating Officer"
+    },
+    {
+      "img": "img/team/AYUSH-MO.webp",
+      "name": "Ayush Krishnan",
+      "job": "Marketing Officer"
+    },
+    {
+      "img": "img/team/SNEHA-MO.webp",
+      "name": "Sneha Prasanth",
+      "job": "Marketing Officer"
+    },
+    {
+      "img": "img/team/ASHWIN-TO.webp",
+      "name": "Ashwin K O",
+      "job": "Technical Officer"
+    },
+    {
+      "img": "img/team/MILAN-TO.webp",
+      "name": "Milan Suman",
+      "job": "Technical Officer"
+    },
+    {
+      "img": "img/team/JOVIT-TO.webp",
+      "name": "Jovit Mathew",
+      "job": "Technical Officer"
+    },
+    {
+      "img": "img/team/SANU-TO.webp",
+      "name": "Sanu K Joseph",
+      "job": "Technical Officer"
+    },
+    {
+      "img": "img/team/ANDREA-SO.webp",
+      "name": "Andrea Tresa Tom",
+      "job": "Skills Officer"
+    },
+    {
+      "img": "img/team/BASIL-SO.webp",
+      "name": "Basil Vazhathottathil",
+      "job": "Skills Officer"
+    },
+    {
+      "img": "img/team/ANGEL-VO.webp",
+      "name": "Angel Maria",
+      "job": "Vibes Officer"
+    }
+  ],
+  "Whyiedc": 
+  [
+    
+    {
+      "icon": "fa fa-comments-o",
+      "title": "MENTORING",
+      "text": "Startup bootcamp provides mentoring support to help the students in developing innovative ideas, setting goals and exploring careers which is best suited."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "INNOVATION",
+      "text": "Startup bootcamp provides students with assistance in projects through innovative ideas which can be utilised for future endeavours"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "NETWORKING",
+      "text": "Startup bootcamp helps students in connecting them with other personalities to identify their potential and increase their opportunities"
+    },
+    {
+      "icon": "fa fa-cogs",
+      "title": "INCUBATION",
+      "text": "Startup bootcamp provides incubation support to students by giving opportunity to express their innovative ideas and make it work"
+    }
+  ]
+}
