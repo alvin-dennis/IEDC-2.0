@@ -18,11 +18,6 @@
       "job": "IEDC Nodal Officer"
     },
     {
-      "img": "img/team/DENIX-ASST-NODAL.webp",
-      "name": "Prof. Denix Sebastian",
-      "job": "Assistant Nodal Officer"
-    },
-    {
       "img": "img/team/LIYA-CEO.webp",
       "name": "Liya Elizabeth Joseph",
       "job": "Chief Executive Officer"
@@ -43,8 +38,8 @@
       "job": "Chief Operating Officer"
     },
     {
-      "img": "img/team/NOEL-CMO.webp",
-      "name": "Noel Roy",
+      "img": "img/team/AYUSH-CMO.png",
+      "name": "Ayush Krishnan U",
       "job": "Chief Marketing Officer"
     },
     {
@@ -93,11 +88,6 @@
       "img": "img/team/VASUDEV-OO.webp",
       "name": "Vasudev Nair P",
       "job": "Operating Officer"
-    },
-    {
-      "img": "img/team/AYUSH-MO.webp",
-      "name": "Ayush Krishnan",
-      "job": "Marketing Officer"
     },
     {
       "img": "img/team/SNEHA-MO.webp",
